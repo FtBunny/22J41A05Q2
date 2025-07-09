@@ -43,16 +43,6 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
-├── App.js          # Main UI and routing
-├── Redirect.js     # Redirect logic for short URLs
-├── index.js        # React entry point
-```
-
----
 
 ## 📌 Notes
 
@@ -62,6 +52,3 @@ src/
 
 ---
 
-## 🧑‍💻 Author
-
-[Pole Rakesh] – [Ftbuny@gmail.com]
